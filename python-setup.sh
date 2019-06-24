@@ -16,4 +16,13 @@ sudo pip3 install jupyter
 # Install avahi daemon for .local access
 sudo apt-get install avahi-daemon
 
+#Install GPU Graph
+git clone https://github.com/JetsonHacksNano/gpuGraph
+
+#Install Swap File
+git clone https://github.com/JetsonHacksNano/installSwapfile
+cd installSwapfile
+./installSwapfile.sh
+cd
+
 sudo apt-get upgrade
