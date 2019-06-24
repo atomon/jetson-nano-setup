@@ -1,3 +1,4 @@
+#!/bin/sh
 #start時にgoするやつ
 
 # Jetson cloks status

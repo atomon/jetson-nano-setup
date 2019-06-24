@@ -1,3 +1,4 @@
+#!/bin/sh
 #NVIDIA official site
 #https://docs.nvidia.com/deeplearning/frameworks/install-tf-jetson-platform/index.html
 
