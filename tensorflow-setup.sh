@@ -18,3 +18,5 @@ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/
 
 #Uninstall Tensorflow
 #pip3 uninstall -y tensorflow-gpu
+
+sudo apt-get upgrade
