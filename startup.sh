@@ -1,14 +1,14 @@
-#!/bin/sh
+#!/bin/bash
 #start時にgoするやつ
 
 # Jetson cloks status
-jetson_clocks --show
+sudo jetson_clocks --show
 
 # Max cloks
-jetson_clocks
+sudo jetson_clocks
 
 # Jetson cloks status
-jetson_clocks --show
+sudo jetson_clocks --show
 
 #jetson_clocksを実行した後に nvpmodelを実行すると jetson_clocksの「最高速」が解除されます
 

@@ -18,6 +18,7 @@ sudo pip3 install jupyter
 sudo apt-get install avahi-daemon
 
 #Install GPU Graph
+cd
 git clone https://github.com/JetsonHacksNano/gpuGraph
 
 #Install Swap File
